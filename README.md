@@ -1,5 +1,5 @@
 
-This game is developed in Java. This game is about one explorer tries to walk out of the pyramid while he is trapped in the pyramid. This game is only one player game. The player plays from the computer keyboard. The player represents the explorer.
+This game is developed in Java. This game is about one explorer tries to walk out of the pyramid while he is trapped in the pyramid. This game is only one player game. The player represents the explorer. The player plays from the computer keyboard.
 
 The program can be compiled and executed on the command prompt.
 
